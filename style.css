@@ -1,0 +1,56 @@
+html{
+    background:#A9846A;
+}
+
+
+
+div{
+    text-align:center;
+    background-color:#795548;
+    color:white;
+    border:2px solid white;
+    border-width:2px 2px 10px 2px;
+}
+
+h2{
+    text-align:center;
+}
+
+#irishcoffee{
+    height:400px;
+    width:1500px;
+    background-color:#795548;
+    color:white;
+    text-align:center;
+    margin:10px 10px 10px 2px;
+}
+
+#irishimg{
+    height:100px;
+    width:100px;
+    margin:10px 10px 10px 512px;
+}
+
+#icedcoffee{
+    height:300px;
+    width:1500px;
+    background-color:#795548;
+    color:white;
+    text-align:center;
+    margin:100px 10px 10px 10px;
+    
+}
+
+#icedimg{
+    height:100px;
+    width:100px;
+    margin:10px 10px 10px 512px;
+}
+
+#history{
+    margin:100px 10px 10px ; 
+}
+
+hr{
+    margin:20px;
+}
